@@ -1,0 +1,56 @@
+body{
+    font-family: 'Aref Ruqaa Ink', serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Quicksand', sans-serif;
+}
+.bth{
+ border-radius: 5px;
+background: #FD6E0A;
+border: 0;
+font-size: 20px;
+font-weight: 700;
+color: white;
+padding: 15px 35px ;
+}
+.colore{
+    color: #FD6E0A ;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 150px;
+
+}
+.nav1{
+    color: #181818;
+font-size: 45px;
+font-weight: 800;
+
+}
+nav > ul{
+    display: flex;
+    align-items: center;
+
+}
+nav li{
+    list-style: none;
+    margin-right: 51px;
+    
+    
+}
+nav a{
+    text-decoration: none;
+    color: #474747 ;
+}
+.header{
+    background: #FFF8F3; 
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .profile{
+    width: 500px;
+}
